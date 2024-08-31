@@ -72,7 +72,8 @@
 }
 
 .menu-column {
-    display: flex;
+    // display: flex;
+    display: none;
     gap: 14px;
 
     + .menu-column {
